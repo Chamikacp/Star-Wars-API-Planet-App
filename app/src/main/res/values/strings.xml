@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SWAPI Planets</string>
+    <string name="swapi_planets">SWAPI PLANETS</string>
+    <string name="previous_page">Previous\nPage</string>
+    <string name="next_page">Next\nPage</string>
+    <string name="orbital_period">Orbital Period</string>
+    <string name="gravity">Gravity</string>
+    <string name="terrain">Terrain</string>
+    <string name="population">Population</string>
+    <string name="climate">Climate :-&#160;</string>
+</resources>
